@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FPS/Scenes/MainMenu.unity
     guid: 541a5c6a1f2083049830716de9ba46c6
-  - enabled: 0
+  - enabled: 1
     path: Assets/FPS/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
-  - enabled: 0
+  - enabled: 1
     path: Assets/FPS/Scenes/LoseScene.unity
     guid: 72e5c65a45893714484002914e3fd521
   - enabled: 1
